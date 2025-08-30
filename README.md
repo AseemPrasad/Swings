@@ -1,4 +1,5 @@
 Swings
+
 A web platform designed to connect students with "solvers" for assistance with academic tasks like assignments, presentations, and projects. This platform serves as the primary marketing and initial contact point for the service.
 
 📖 Description
