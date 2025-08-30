@@ -1,4 +1,4 @@
-Academic Assistance Platform
+Swings
 A web platform designed to connect students with "solvers" for assistance with academic tasks like assignments, presentations, and projects. This platform serves as the primary marketing and initial contact point for the service.
 
 📖 Description
@@ -29,28 +29,6 @@ Discuss Requirements: The client discusses their project details, requirements, 
 Confirm the Order: After receiving a price quote and agreeing to the terms, the order is confirmed.
 
 Receive the Solution: The completed work is delivered to the client through the agreed-upon channel (e.g., email for digital files, speed post for physical copies).
-
-🚀 Tech Stack
-This project is a static website built with fundamental web technologies, ensuring it is lightweight, fast, and easy to deploy.
-
-Frontend: HTML5, CSS3, JavaScript
-
-🔧 Getting Started
-To get a local copy up and running, follow these simple steps.
-
-Prerequisites
-You only need a modern web browser.
-
-Installation
-Clone the repository to your local machine:
-
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-
-Navigate to the project directory:
-
-cd your-repository-name
-
-Open the index.html file in your web browser to view the website.
 
 ⚖️ Disclaimer
 This service is intended to provide academic assistance for research and reference purposes only. The materials provided are meant to be used as a guide or a model to help students understand their assignments better. Submitting the work provided by this service as your own is a violation of academic integrity policies at most institutions and is strongly discouraged. Users are responsible for adhering to their university's or school's academic honesty policies.
