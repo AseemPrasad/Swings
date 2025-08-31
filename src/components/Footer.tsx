@@ -52,7 +52,7 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-2">
                 <MessageCircle className="h-4 w-4 text-green-500" />
-                <a href="https://wa.me/9062677839" className="text-gray-300 hover:text-white transition-colors">
+                <a href="https://wa.me/7439633071" className="text-gray-300 hover:text-white transition-colors">
                   WhatsApp
                 </a>
               </div>

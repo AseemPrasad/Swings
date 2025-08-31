@@ -44,7 +44,7 @@ const Contact = () => {
       description: 'For orders and immediate assistance',
       contact: '+1 (234) 567-8900',
       action: 'Chat Now',
-      link: 'https://wa.me/9062677839',
+      link: 'https://wa.me/7439633071',
       color: 'bg-green-500 hover:bg-green-600'
     },
     {
@@ -60,9 +60,9 @@ const Contact = () => {
       icon: Phone,
       title: 'Phone Support',
       description: 'For urgent matters and consultations',
-      contact: '+1 9062677839',
+      contact: '+1 7439633071',
       action: 'Call Now',
-      link: 'tel:+19062677839',
+      link: 'tel:+17439633071',
       color: 'bg-purple-500 hover:bg-purple-600'
     }
   ];
@@ -332,7 +332,7 @@ const Contact = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://wa.me/9062677839?text=Hi! I need academic assistance and would like to get started."
+              href="https://wa.me/7439633071?text=Hi! I need academic assistance and would like to get started."
               target="_blank"
               rel="noopener noreferrer"
               className="bg-green-600 text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-green-700 transition-colors inline-flex items-center justify-center space-x-2 shadow-lg"

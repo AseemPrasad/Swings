@@ -162,7 +162,7 @@ const Services = () => {
 
                     <div className="mt-6 pt-6 border-t border-gray-200">
                       <a
-                        href="https://wa.me/9062677839"
+                        href="https://wa.me/7439633071"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="bg-green-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors inline-flex items-center space-x-2"
@@ -219,7 +219,7 @@ const Services = () => {
               Contact us for a personalized quote based on your specific requirements.
             </p>
             <a
-              href="https://wa.me/9062677839"
+              href="https://wa.me/7439633071"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-green-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors inline-flex items-center space-x-2"
